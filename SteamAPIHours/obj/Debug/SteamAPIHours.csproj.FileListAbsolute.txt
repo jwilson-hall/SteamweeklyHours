@@ -1,0 +1,13 @@
+C:\Users\josep\OneDrive - Cardiff University\repos\!C# - Workspace\SteamAPIHours\SteamAPIHours\bin\Debug\SteamAPIHours.exe.config
+C:\Users\josep\OneDrive - Cardiff University\repos\!C# - Workspace\SteamAPIHours\SteamAPIHours\bin\Debug\SteamAPIHours.exe
+C:\Users\josep\OneDrive - Cardiff University\repos\!C# - Workspace\SteamAPIHours\SteamAPIHours\bin\Debug\SteamAPIHours.pdb
+C:\Users\josep\OneDrive - Cardiff University\repos\!C# - Workspace\SteamAPIHours\SteamAPIHours\obj\Debug\SteamAPIHours.csprojAssemblyReference.cache
+C:\Users\josep\OneDrive - Cardiff University\repos\!C# - Workspace\SteamAPIHours\SteamAPIHours\obj\Debug\SteamAPIHours.Main.resources
+C:\Users\josep\OneDrive - Cardiff University\repos\!C# - Workspace\SteamAPIHours\SteamAPIHours\obj\Debug\SteamAPIHours.Properties.Resources.resources
+C:\Users\josep\OneDrive - Cardiff University\repos\!C# - Workspace\SteamAPIHours\SteamAPIHours\obj\Debug\SteamAPIHours.csproj.GenerateResource.cache
+C:\Users\josep\OneDrive - Cardiff University\repos\!C# - Workspace\SteamAPIHours\SteamAPIHours\obj\Debug\SteamAPIHours.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive - Cardiff University\repos\!C# - Workspace\SteamAPIHours\SteamAPIHours\obj\Debug\SteamAPIHours.exe
+C:\Users\josep\OneDrive - Cardiff University\repos\!C# - Workspace\SteamAPIHours\SteamAPIHours\obj\Debug\SteamAPIHours.pdb
+C:\Users\josep\OneDrive - Cardiff University\repos\!C# - Workspace\SteamAPIHours\SteamAPIHours\bin\Debug\Newtonsoft.Json.dll
+C:\Users\josep\OneDrive - Cardiff University\repos\!C# - Workspace\SteamAPIHours\SteamAPIHours\bin\Debug\Newtonsoft.Json.xml
+C:\Users\josep\OneDrive - Cardiff University\repos\!C# - Workspace\SteamAPIHours\SteamAPIHours\obj\Debug\SteamAPIHours.csproj.CopyComplete

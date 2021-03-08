@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamAPIHours", "SteamAPIHours\SteamAPIHours.csproj", "{93EA7CB5-D9F0-41BC-941A-E920337D41BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93EA7CB5-D9F0-41BC-941A-E920337D41BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EA7CB5-D9F0-41BC-941A-E920337D41BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EA7CB5-D9F0-41BC-941A-E920337D41BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EA7CB5-D9F0-41BC-941A-E920337D41BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31509AFE-5EAD-43F8-8EFC-50FCDD754570}
+	EndGlobalSection
+EndGlobal
